@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3el005/v1
 canonical_location: https://kanripo.org/bkk/KR3el005/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傷科大成
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3el005_000.yaml, hash: 'sha256:5ad93207081937f6d45b1f75d6286348b4cb535f9c699c4367875480e692466a'}
+  - {seq: 0, filename: KR3el005_000.yaml, hash: 'sha256:84240c95d5a2b7ce79f807902522a6c369a320542b1731436448f0d80efb2bf7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el005_000.markers.yaml, hash: 'sha256:a2f53aa52c38d8479117017dfcb612b154407d142e24149b263975099ff9728d'}
+  - {seq: 0, role: markers, filename: assets/KR3el005_000.markers.yaml, hash: 'sha256:5a882fb8171011fe971f8a56e74ab27a5677db4a96c8815c40eb500d542aab62'}
 table_of_contents:
 - ref:
     seq: 0
@@ -591,4 +591,7 @@ table_of_contents:
   label: 鐵扇散
   type: section
   level: 2
-hash: sha256:8b839c297d24c88938b871ee175b88c6571e76e1601764c9892ee376e4086efd
+hash: sha256:e48e5173f696483a2878dfdc7163c4bf261ab8c5a3c457ca288947bb020d3af2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
